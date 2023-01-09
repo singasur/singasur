@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hey! 👋
+ I'm Suraj, a student who dabbles in web design, audio, and other stuff. I'm a fan of atmospheric websites, non-utility, and anything pretentious.Also, I learned how to use GitHub 30 seconds ago, so this is exciting!
+
+## Some of my favorite sites:
+*[The Sound of Love](https://thesoundof.love)*
+
 
 <!--
 **singasur/singasur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
