@@ -1,8 +1,17 @@
 # Hey! 👋
- I'm Suraj, a student who dabbles in web design, audio, and other stuff. I'm a fan of atmospheric websites, non-utility, and anything pretentious.Also, I learned how to use GitHub 30 seconds ago, so this is exciting!
+ I'm Suraj, a student interested in web design, audio, immersive storytelling and other stuff. I'm a fan of atmospheric websites, non-utility, web poetics, and anything pretentious. If I played more games, I'd probably be into that too. Also, I learned how to use GitHub 30 seconds ago, so this is exciting!
 
 ## Some of my favorite sites:
-*[The Sound of Love](https://thesoundof.love)*
+* *[Making a Poetic Web(site)](https://chiaski.github.io/poeticweb/)*
+* *[The Sound of Love](https://thesoundof.love)*
+* *[Rivers](https://whykatherine.github.io/rivers/?utm_source=substack&utm_medium=email)*
+* *[Electronicos Fantasticos!](https://www.youtube.com/watch?v=UB7ZyZSKLX8)*
+* *[Bubbles](https://oimo.io/works/bubbles/)*
+* *[An App Can be a Homecooked Meal](https://www.robinsloan.com/notes/home-cooked-app/)*
+
+## Others worth checking out (the archive):
+* *[Childishism](https://childishism.com/?q=pious)*
+* *[Jerobeam Fenderson's Oscilloscope Music](https://www.youtube.com/watch?v=TaGwJ5VJtYo)*
 
 
 <!--
