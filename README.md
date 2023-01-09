@@ -12,6 +12,7 @@
 ## Others worth checking out (the archive):
 * *[Childishism](https://childishism.com/?q=pious)*
 * *[Jerobeam Fenderson's Oscilloscope Music](https://www.youtube.com/watch?v=TaGwJ5VJtYo)*
+* *[Sunday Sites](https://sundaysites.cafe/index.html)*
 
 
 <!--
