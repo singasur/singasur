@@ -3,9 +3,9 @@
 
 ## Some of my favorite sites:
 * *[Making a Poetic Web(site)](https://chiaski.github.io/poeticweb/)*
+* *[Digitization Wiki](https://www.digitization.wiki)*
 * *[The Sound of Love](https://thesoundof.love)*
 * *[Rivers](https://whykatherine.github.io/rivers/?utm_source=substack&utm_medium=email)*
-* *[Electronicos Fantasticos!](https://www.youtube.com/watch?v=UB7ZyZSKLX8)*
 * *[Bubbles](https://oimo.io/works/bubbles/)*
 * *[An App Can be a Homecooked Meal](https://www.robinsloan.com/notes/home-cooked-app/)*
 
@@ -13,6 +13,7 @@
 * *[Childishism](https://childishism.com/?q=pious)*
 * *[Jerobeam Fenderson's Oscilloscope Music](https://www.youtube.com/watch?v=TaGwJ5VJtYo)*
 * *[Sunday Sites](https://sundaysites.cafe/index.html)*
+* *[Electronicos Fantasticos!](https://www.youtube.com/watch?v=UB7ZyZSKLX8)*
 
 
 <!--
